@@ -4,7 +4,7 @@
 
 感谢原作！原 repo 地址：[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-## 在线阅读（github-page）
+## 在线阅读（gitee-page）
 
 - 起步上路：[http://gdut_yy.gitee.io/doc-ydkjs/up&going/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/up&going/ch1.html)
 - 作用域与闭包：[http://gdut_yy.gitee.io/doc-ydkjs/scope&closures/ch1.html](http://gdut_yy.gitee.io/doc-ydkjs/scope&closures/ch1.html)
