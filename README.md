@@ -1,6 +1,6 @@
 # You-Dont-Know-JS-zh
 
-《你不知道的 JavaScript（上中下卷）》中文
+《你不知道的 JavaScript（上中下卷）》中文翻译
 
 感谢原作！原 repo 地址：[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
@@ -25,11 +25,12 @@ yarn global add vuepress
 git clone https://github.com/gdut-yy/You-Dont-Know-JS-zh.git
 cd You-Dont-Know-JS-zh/
 yarn docs:dev
-
-# 本地阅读
-http://localhost:8080/doc-ydkjs/
 ```
+
+## 更多书籍
+
+[https://github.com/xx-zh/xx-zh-roadmap](https://github.com/xx-zh/xx-zh-roadmap)
 
 ## License
 
-[MIT](https://github.com/gdut-yy/You-Dont-Know-JS-zh/blob/master/LICENSE)
+[MIT](./LICENSE)
